@@ -108,9 +108,13 @@ The EMS consists of four main components:
 │   └── load_data.csv
 ├── requirements.txt
 └── README.md
+```
 
 ##  Author
 
 **Samuel Kiio Kyalo**
 
 Graduate Electrical & Electronics Engineer
+
+
+
