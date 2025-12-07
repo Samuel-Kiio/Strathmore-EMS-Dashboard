@@ -93,7 +93,6 @@ The EMS consists of four main components:
 * Economic optimization incorporating energy tariffs and demand charges
 * Scaling to multi-building or multi-campus microgrids
 
----
 
 ## The Repository Structure 
 
@@ -109,17 +108,9 @@ The EMS consists of four main components:
 │   └── load_data.csv
 ├── requirements.txt
 └── README.md
-```
-
----
-
-##  Academic Context
-
-This project was developed as a **Master’s capstone project** in the field of **Sustainable Energy Transitions**, focusing on practical energy management solutions for institutional solar PV systems in Kenya.
-
----
 
 ##  Author
 
 **Samuel Kiio Kyalo**
-Electrical & Electronics Engineer
+
+Graduate Electrical & Electronics Engineer
